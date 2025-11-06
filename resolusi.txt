@@ -1,0 +1,6 @@
+resolusi belajar web programing 
+1. belajar html 
+2. belajar css
+3. belajar javascript dasar 
+4. belajar javascript DOM 
+5. belajar react
